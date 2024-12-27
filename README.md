@@ -30,6 +30,11 @@ python -c "import create_lisensi"
   <img src="foto.jpg" alt="Screenshot" width="400"/>
 </p>
 
+<br>
+<p align="center">
+  <img src="foto2.jpg" alt="Screenshot" width="400"/>
+</p>
+
 ## 🔧 Fitur :
 
 - **1. atur waktu lisensi:** atur waktu lisensi lewat github.
