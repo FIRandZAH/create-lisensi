@@ -10,8 +10,21 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+create+lisensi+Code+Python)](https://git.io/typing-svg)
+## format list lisensi 
+```sh
+{
+        'lisensi': datetime.datetime(2025, 1, 27),
+        'lisensi': datetime.datetime(2025, 1, 29),
+        'lisensi': datetime.datetime(2024, 12, 18),
+        'lisensi': datetime.datetime(2024, 12, 23),
+        'lisensi': datetime.datetime(2025, 1, 10),
+        'lisensi': datetime.datetime(2024, 12, 28),
+        'lisensi': datetime.datetime(2034, 9, 28)
+    }
 
-## 🚀 Install and Run CREATE LISENSI
+```
+
+## 🚀 Install and Run
 
 Untuk menginstal dan menjalankan script encode ini, ikuti langkah-langkah berikut:
 
