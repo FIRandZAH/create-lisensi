@@ -10,7 +10,7 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+create+lisensi+Code+Python)](https://git.io/typing-svg)
-* **tutorial:**https://youtu.be/_bSKXcOdXWI?si=REFZp93E8nJdg_NO 
+* **tutorial:** https://youtu.be/_bSKXcOdXWI?si=REFZp93E8nJdg_NO 
 ## format list lisensi 
 ```sh
 {
