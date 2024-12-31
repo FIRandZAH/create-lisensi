@@ -11,6 +11,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+create+lisensi+Code+Python)](https://git.io/typing-svg)
 * **tutorial:** https://youtu.be/eOJwgt-yHhM?si=yFZ7slQKtVKEGTJS 
+
+<br>
+<p align="center">
+  <img src="tes.mp4" alt="tutorial" width="400"/>
+</p>
+
 ## format list lisensi 
 ```sh
 {
