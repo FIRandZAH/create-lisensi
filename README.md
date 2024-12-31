@@ -62,3 +62,6 @@ Butuh bantuan atau ada pertanyaan?  Silakan hubungi saya melalui:
 * **WhatsApp:** https://wa.me/6283170597744
 * **Email:** [firzah48@gmail.com](mailto:firzah48@gmail.com) 
 
+## 📺 Watch the Video Tutorial
+
+[![Tutorial Video](https://img.youtube.com/vi/eOJwgt-yHhM/0.jpg)](https://youtu.be/eOJwgt-yHhM?si=yFZ7slQKtVKEGTJS)
