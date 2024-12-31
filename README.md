@@ -41,7 +41,7 @@ python -c "import create_lisensi"
 
 <br>
 <p align="center">
-  <img src="foto.jpg" alt="Screenshot" width="400"/>
+  <img src="foto3.jpg" alt="Screenshot" width="400"/>
 </p>
 
 <br>
